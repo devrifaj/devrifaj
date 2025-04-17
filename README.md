@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@rifaj007](https://medium.com/@rifaj007)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react, Next.js**
 
 - 📫 How to reach me **mdrifajulislamrifaj.contact@gmail.com**
 
