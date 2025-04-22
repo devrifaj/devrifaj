@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Redux and Redux Toolkit**
 
-- 👨‍💻 All of my projects are available at [https://mdrifajulislamrifaj.vercel.app/](https://mdrifajulislamrifaj.vercel.app/)
+- 👨‍💻 All of my projects are available at my portfolio: [https://mdrifajulislamrifaj.vercel.app/](https://mdrifajulislamrifaj.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@rifaj007](https://medium.com/@rifaj007)
 
