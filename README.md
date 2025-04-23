@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mdrifajulislamrifaj.contact@gmail.com**
 
-- 📄 Know about my experiences [https://utfs.io/f/NA8LFvDghE1xMk9oEFicB9Osg0Q7JyWhPAjtnxfrdZo8GvSq](https://utfs.io/f/NA8LFvDghE1xMk9oEFicB9Osg0Q7JyWhPAjtnxfrdZo8GvSq)
+- 📄 Know about my experiences from my resume: [https://utfs.io/f/NA8LFvDghE1xMk9oEFicB9Osg0Q7JyWhPAjtnxfrdZo8GvSq](https://utfs.io/f/NA8LFvDghE1xMk9oEFicB9Osg0Q7JyWhPAjtnxfrdZo8GvSq)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
