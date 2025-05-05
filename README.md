@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **react, Next.js**
 
-- 📫 Email to reach me **mdrifajulislamrifaj.contact@gmail.com**
+- 📫 Email to reach me : **mdrifajulislamrifaj.contact@gmail.com**
 
 - 📄 Know about my experiences from my resume: [https://utfs.io/f/NA8LFvDghE1xMk9oEFicB9Osg0Q7JyWhPAjtnxfrdZo8GvSq](https://utfs.io/f/NA8LFvDghE1xMk9oEFicB9Osg0Q7JyWhPAjtnxfrdZo8GvSq)
 
