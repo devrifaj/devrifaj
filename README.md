@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at my portfolio: [https://mdrifajulislamrifaj.vercel.app/](https://mdrifajulislamrifaj.vercel.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@rifaj007](https://medium.com/@rifaj007)
+- 📝 I write articles on [https://medium.com/@rifaj007](https://medium.com/@rifaj007)
 
 - 📫 Email to reach me : **mdrifajulislamrifaj.contact@gmail.com**
 
