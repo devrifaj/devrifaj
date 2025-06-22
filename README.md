@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on :[https://medium.com/@rifaj007](https://medium.com/@rifaj007)
 
-- 📫 Email to reach me : **mdrifajulislamrifaj.contact@gmail.com**
+- 📫 Email to reach me : **devrifaj@gmail.com**
 
 - 📄 Know about my experiences from my resume: [resume link](https://drive.google.com/file/d/1YBuarLjtoahQsP-xrAqXjzAJWkqcq-ul/view?usp=sharing)
 
