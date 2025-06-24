@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [3legant](https://github.com/rifaj007/3legant.git)
 
-- 🌱 I’m currently learning **LLM**
+- 🌱 I’m currently learning **GSAP**
 
 - 👨‍💻 All of my projects are available at my portfolio: [https://mdrifajulislamrifaj.vercel.app/](https://mdrifajulislamrifaj.vercel.app/)
 
